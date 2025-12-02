@@ -1,0 +1,5 @@
+# Xcode user settings
+xcuserdata/
+
+# Breakpoints (already covered by xcuserdata but good to be specific)
+xcdebugger/
